@@ -451,7 +451,7 @@ man ls
 
 **Purpose:** Execute commands with administrative privilege
 
-bash
+```bash
 sudo apt update
 ---
 
